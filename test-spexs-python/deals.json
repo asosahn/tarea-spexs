@@ -1,0 +1,182 @@
+[
+  {
+    "dealname": "Implementación CRM Enterprise - TechSolutions",
+    "amount": "45000",
+    "dealstage": "qualifiedtobuy",
+    "pipeline": "default",
+    "closedate": "2024-03-15",
+    "dealtype": "newbusiness",
+    "description": "Implementación completa de sistema CRM para empresa de 200+ empleados"
+  },
+  {
+    "dealname": "Consultoría Digital Marketing - InnovateCorp",
+    "amount": "25000",
+    "dealstage": "presentationscheduled",
+    "pipeline": "default",
+    "closedate": "2024-02-28",
+    "dealtype": "newbusiness",
+    "description": "Estrategia completa de marketing digital y automatización"
+  },
+  {
+    "dealname": "Desarrollo App Mobile - DataAnalytics Pro",
+    "amount": "75000",
+    "dealstage": "decisionmakerboughtin",
+    "pipeline": "default",
+    "closedate": "2024-04-10",
+    "dealtype": "newbusiness",
+    "description": "Desarrollo de aplicación móvil para análisis de datos en tiempo real"
+  },
+  {
+    "dealname": "Migración Cloud - CloudServices Inc",
+    "amount": "120000",
+    "dealstage": "contractsent",
+    "pipeline": "default",
+    "closedate": "2024-03-30",
+    "dealtype": "newbusiness",
+    "description": "Migración completa de infraestructura a la nube con servicios AWS"
+  },
+  {
+    "dealname": "Optimización SEO - DigitalMarketing Hub",
+    "amount": "15000",
+    "dealstage": "closedwon",
+    "pipeline": "default",
+    "closedate": "2024-01-15",
+    "dealtype": "newbusiness",
+    "description": "Optimización SEO completa para mejorar posicionamiento orgánico"
+  },
+  {
+    "dealname": "Plataforma E-commerce - StartupAccelerator",
+    "amount": "95000",
+    "dealstage": "qualifiedtobuy",
+    "pipeline": "default",
+    "closedate": "2024-05-20",
+    "dealtype": "newbusiness",
+    "description": "Desarrollo de plataforma e-commerce personalizada con integración de pagos"
+  },
+  {
+    "dealname": "Auditoría Seguridad - EcommercePlus",
+    "amount": "30000",
+    "dealstage": "appointmentscheduled",
+    "pipeline": "default",
+    "closedate": "2024-02-15",
+    "dealtype": "newbusiness",
+    "description": "Auditoría completa de seguridad informática y plan de mejoras"
+  },
+  {
+    "dealname": "Sistema BI - CyberSecurity Pro",
+    "amount": "65000",
+    "dealstage": "presentationscheduled",
+    "pipeline": "default",
+    "closedate": "2024-04-05",
+    "dealtype": "newbusiness",
+    "description": "Implementación de sistema de Business Intelligence para análisis de datos"
+  },
+  {
+    "dealname": "Automatización Procesos - AIResearch Lab",
+    "amount": "85000",
+    "dealstage": "decisionmakerboughtin",
+    "pipeline": "default",
+    "closedate": "2024-03-25",
+    "dealtype": "newbusiness",
+    "description": "Automatización de procesos empresariales mediante IA y machine learning"
+  },
+  {
+    "dealname": "App Móvil iOS/Android - MobileApps Studio",
+    "amount": "55000",
+    "dealstage": "qualifiedtobuy",
+    "pipeline": "default",
+    "closedate": "2024-04-15",
+    "dealtype": "newbusiness",
+    "description": "Desarrollo de aplicación móvil nativa para iOS y Android"
+  },
+  {
+    "dealname": "Rediseño UX/UI - UXDesign Agency",
+    "amount": "35000",
+    "dealstage": "closedwon",
+    "pipeline": "default",
+    "closedate": "2024-01-30",
+    "dealtype": "newbusiness",
+    "description": "Rediseño completo de interfaz de usuario y experiencia de usuario"
+  },
+  {
+    "dealname": "Blockchain Integration - BlockchainTech",
+    "amount": "150000",
+    "dealstage": "contractsent",
+    "pipeline": "default",
+    "closedate": "2024-06-10",
+    "dealtype": "newbusiness",
+    "description": "Integración de tecnología blockchain para trazabilidad de productos"
+  },
+  {
+    "dealname": "Social Media Strategy - SocialMedia Pro",
+    "amount": "20000",
+    "dealstage": "appointmentscheduled",
+    "pipeline": "default",
+    "closedate": "2024-02-20",
+    "dealtype": "newbusiness",
+    "description": "Estrategia integral de redes sociales y gestión de comunidades"
+  },
+  {
+    "dealname": "Sistema ERP - FinTech Solutions",
+    "amount": "200000",
+    "dealstage": "qualifiedtobuy",
+    "pipeline": "default",
+    "closedate": "2024-07-15",
+    "dealtype": "newbusiness",
+    "description": "Implementación de sistema ERP completo para gestión empresarial"
+  },
+  {
+    "dealname": "Telemedicina Platform - HealthTech Innovations",
+    "amount": "110000",
+    "dealstage": "presentationscheduled",
+    "pipeline": "default",
+    "closedate": "2024-05-05",
+    "dealtype": "newbusiness",
+    "description": "Desarrollo de plataforma de telemedicina con videoconferencia integrada"
+  },
+  {
+    "dealname": "IoT Solutions - GreenEnergy Corp",
+    "amount": "80000",
+    "dealstage": "decisionmakerboughtin",
+    "pipeline": "default",
+    "closedate": "2024-04-20",
+    "dealtype": "newbusiness",
+    "description": "Soluciones IoT para monitoreo de energía renovable en tiempo real"
+  },
+  {
+    "dealname": "LMS Platform - EdTech Platform",
+    "amount": "70000",
+    "dealstage": "closedwon",
+    "pipeline": "default",
+    "closedate": "2024-02-05",
+    "dealtype": "newbusiness",
+    "description": "Plataforma de gestión de aprendizaje con gamificación integrada"
+  },
+  {
+    "dealname": "Supply Chain Optimization - LogisticsPro",
+    "amount": "90000",
+    "dealstage": "contractsent",
+    "pipeline": "default",
+    "closedate": "2024-03-20",
+    "dealtype": "newbusiness",
+    "description": "Optimización de cadena de suministro mediante algoritmos de IA"
+  },
+  {
+    "dealname": "POS System Integration - RetailTech",
+    "amount": "40000",
+    "dealstage": "appointmentscheduled",
+    "pipeline": "default",
+    "closedate": "2024-02-25",
+    "dealtype": "newbusiness",
+    "description": "Integración de sistema de punto de venta con inventario automatizado"
+  },
+  {
+    "dealname": "Game Development - GameDev Studio",
+    "amount": "125000",
+    "dealstage": "qualifiedtobuy",
+    "pipeline": "default",
+    "closedate": "2024-08-10",
+    "dealtype": "newbusiness",
+    "description": "Desarrollo de videojuego multiplataforma con realidad aumentada"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "firstname": "Ana",
+    "lastname": "García",
+    "email": "ana.garcia@email.com",
+    "phone": "+34 600 123 001",
+    "company": "TechSolutions S.L.",
+    "jobtitle": "Desarrolladora Senior"
+  },
+  {
+    "firstname": "Carlos",
+    "lastname": "Rodríguez",
+    "email": "carlos.rodriguez@email.com",
+    "phone": "+34 600 123 002",
+    "company": "InnovateCorp",
+    "jobtitle": "Director de Marketing"
+  },
+  {
+    "firstname": "María",
+    "lastname": "López",
+    "email": "maria.lopez@email.com",
+    "phone": "+34 600 123 003",
+    "company": "DataAnalytics Pro",
+    "jobtitle": "Analista de Datos"
+  },
+  {
+    "firstname": "David",
+    "lastname": "Martínez",
+    "email": "david.martinez@email.com",
+    "phone": "+34 600 123 004",
+    "company": "CloudServices Inc",
+    "jobtitle": "Arquitecto de Software"
+  },
+  {
+    "firstname": "Laura",
+    "lastname": "Sánchez",
+    "email": "laura.sanchez@email.com",
+    "phone": "+34 600 123 005",
+    "company": "DigitalMarketing Hub",
+    "jobtitle": "Especialista SEO"
+  },
+  {
+    "firstname": "Miguel",
+    "lastname": "Fernández",
+    "email": "miguel.fernandez@email.com",
+    "phone": "+34 600 123 006",
+    "company": "StartupAccelerator",
+    "jobtitle": "CEO"
+  },
+  {
+    "firstname": "Carmen",
+    "lastname": "Jiménez",
+    "email": "carmen.jimenez@email.com",
+    "phone": "+34 600 123 007",
+    "company": "EcommercePlus",
+    "jobtitle": "Product Manager"
+  },
+  {
+    "firstname": "Javier",
+    "lastname": "Ruiz",
+    "email": "javier.ruiz@email.com",
+    "phone": "+34 600 123 008",
+    "company": "CyberSecurity Pro",
+    "jobtitle": "Especialista en Seguridad"
+  },
+  {
+    "firstname": "Elena",
+    "lastname": "Moreno",
+    "email": "elena.moreno@email.com",
+    "phone": "+34 600 123 009",
+    "company": "AIResearch Lab",
+    "jobtitle": "Científica de Datos"
+  },
+  {
+    "firstname": "Roberto",
+    "lastname": "Álvarez",
+    "email": "roberto.alvarez@email.com",
+    "phone": "+34 600 123 010",
+    "company": "MobileApps Studio",
+    "jobtitle": "Desarrollador Mobile"
+  },
+  {
+    "firstname": "Sofía",
+    "lastname": "Romero",
+    "email": "sofia.romero@email.com",
+    "phone": "+34 600 123 011",
+    "company": "UXDesign Agency",
+    "jobtitle": "UX Designer"
+  },
+  {
+    "firstname": "Antonio",
+    "lastname": "Torres",
+    "email": "antonio.torres@email.com",
+    "phone": "+34 600 123 012",
+    "company": "BlockchainTech",
+    "jobtitle": "Blockchain Developer"
+  },
+  {
+    "firstname": "Lucía",
+    "lastname": "Ramírez",
+    "email": "lucia.ramirez@email.com",
+    "phone": "+34 600 123 013",
+    "company": "SocialMedia Pro",
+    "jobtitle": "Community Manager"
+  },
+  {
+    "firstname": "Fernando",
+    "lastname": "Herrera",
+    "email": "fernando.herrera@email.com",
+    "phone": "+34 600 123 014",
+    "company": "FinTech Solutions",
+    "jobtitle": "Analista Financiero"
+  },
+  {
+    "firstname": "Patricia",
+    "lastname": "Vega",
+    "email": "patricia.vega@email.com",
+    "phone": "+34 600 123 015",
+    "company": "HealthTech Innovations",
+    "jobtitle": "Directora Médica"
+  },
+  {
+    "firstname": "Alejandro",
+    "lastname": "Castro",
+    "email": "alejandro.castro@email.com",
+    "phone": "+34 600 123 016",
+    "company": "GreenEnergy Corp",
+    "jobtitle": "Ingeniero Ambiental"
+  },
+  {
+    "firstname": "Cristina",
+    "lastname": "Ortega",
+    "email": "cristina.ortega@email.com",
+    "phone": "+34 600 123 017",
+    "company": "EdTech Platform",
+    "jobtitle": "Coordinadora Académica"
+  },
+  {
+    "firstname": "Raúl",
+    "lastname": "Delgado",
+    "email": "raul.delgado@email.com",
+    "phone": "+34 600 123 018",
+    "company": "LogisticsPro",
+    "jobtitle": "Gerente de Operaciones"
+  },
+  {
+    "firstname": "Beatriz",
+    "lastname": "Peña",
+    "email": "beatriz.pena@email.com",
+    "phone": "+34 600 123 019",
+    "company": "RetailTech",
+    "jobtitle": "Analista de Ventas"
+  },
+  {
+    "firstname": "Sergio",
+    "lastname": "Mendoza",
+    "email": "sergio.mendoza@email.com",
+    "phone": "+34 600 123 020",
+    "company": "GameDev Studio",
+    "jobtitle": "Game Designer"
+  },
+  {
+    "firstname": "Natalia",
+    "lastname": "Iglesias",
+    "email": "natalia.iglesias@email.com",
+    "phone": "+34 600 123 021",
+    "company": "TravelTech",
+    "jobtitle": "Product Owner"
+  },
+  {
+    "firstname": "Óscar",
+    "lastname": "Vargas",
+    "email": "oscar.vargas@email.com",
+    "phone": "+34 600 123 022",
+    "company": "SportsTech",
+    "jobtitle": "Entrenador Digital"
+  },
+  {
+    "firstname": "Mónica",
+    "lastname": "Cabrera",
+    "email": "monica.cabrera@email.com",
+    "phone": "+34 600 123 023",
+    "company": "FoodTech Innovations",
+    "jobtitle": "Chef Ejecutiva"
+  },
+  {
+    "firstname": "Andrés",
+    "lastname": "Guerrero",
+    "email": "andres.guerrero@email.com",
+    "phone": "+34 600 123 024",
+    "company": "AutoTech Solutions",
+    "jobtitle": "Ingeniero Automotriz"
+  },
+  {
+    "firstname": "Pilar",
+    "lastname": "Medina",
+    "email": "pilar.medina@email.com",
+    "phone": "+34 600 123 025",
+    "company": "FashionTech",
+    "jobtitle": "Diseñadora de Moda"
+  },
+  {
+    "firstname": "Rubén",
+    "lastname": "Prieto",
+    "email": "ruben.prieto@email.com",
+    "phone": "+34 600 123 026",
+    "company": "RealEstate Pro",
+    "jobtitle": "Agente Inmobiliario"
+  },
+  {
+    "firstname": "Silvia",
+    "lastname": "Campos",
+    "email": "silvia.campos@email.com",
+    "phone": "+34 600 123 027",
+    "company": "LegalTech",
+    "jobtitle": "Abogada Especialista"
+  },
+  {
+    "firstname": "Iván",
+    "lastname": "Crespo",
+    "email": "ivan.crespo@email.com",
+    "phone": "+34 600 123 028",
+    "company": "MusicTech",
+    "jobtitle": "Productor Musical"
+  },
+  {
+    "firstname": "Rosa",
+    "lastname": "Gallego",
+    "email": "rosa.gallego@email.com",
+    "phone": "+34 600 123 029",
+    "company": "ArtTech Gallery",
+    "jobtitle": "Curadora de Arte"
+  },
+  {
+    "firstname": "Víctor",
+    "lastname": "Navarro",
+    "email": "victor.navarro@email.com",
+    "phone": "+34 600 123 030",
+    "company": "AgriTech Solutions",
+    "jobtitle": "Ingeniero Agrónomo"
+  },
+  {
+    "firstname": "Amparo",
+    "lastname": "Serrano",
+    "email": "amparo.serrano@email.com",
+    "phone": "+34 600 123 031",
+    "company": "PetTech",
+    "jobtitle": "Veterinaria"
+  },
+  {
+    "firstname": "Gonzalo",
+    "lastname": "Blanco",
+    "email": "gonzalo.blanco@email.com",
+    "phone": "+34 600 123 032",
+    "company": "SpaceTech",
+    "jobtitle": "Ingeniero Aeroespacial"
+  },
+  {
+    "firstname": "Inmaculada",
+    "lastname": "Ramos",
+    "email": "inmaculada.ramos@email.com",
+    "phone": "+34 600 123 033",
+    "company": "CleanTech",
+    "jobtitle": "Especialista Ambiental"
+  },
+  {
+    "firstname": "Emilio",
+    "lastname": "Pascual",
+    "email": "emilio.pascual@email.com",
+    "phone": "+34 600 123 034",
+    "company": "BioTech Lab",
+    "jobtitle": "Biotecnólogo"
+  },
+  {
+    "firstname": "Dolores",
+    "lastname": "Santana",
+    "email": "dolores.santana@email.com",
+    "phone": "+34 600 123 035",
+    "company": "WellnessTech",
+    "jobtitle": "Terapeuta Digital"
+  },
+  {
+    "firstname": "Marcos",
+    "lastname": "Molina",
+    "email": "marcos.molina@email.com",
+    "phone": "+34 600 123 036",
+    "company": "ConstructionTech",
+    "jobtitle": "Arquitecto"
+  },
+  {
+    "firstname": "Remedios",
+    "lastname": "Lozano",
+    "email": "remedios.lozano@email.com",
+    "phone": "+34 600 123 037",
+    "company": "PharmaTech",
+    "jobtitle": "Farmacéutica"
+  },
+  {
+    "firstname": "Adrián",
+    "lastname": "Marín",
+    "email": "adrian.marin@email.com",
+    "phone": "+34 600 123 038",
+    "company": "EnergyTech",
+    "jobtitle": "Ingeniero Energético"
+  },
+  {
+    "firstname": "Encarnación",
+    "lastname": "Suárez",
+    "email": "encarnacion.suarez@email.com",
+    "phone": "+34 600 123 039",
+    "company": "SocialTech",
+    "jobtitle": "Trabajadora Social"
+  },
+  {
+    "firstname": "Joaquín",
+    "lastname": "Peñas",
+    "email": "joaquin.penas@email.com",
+    "phone": "+34 600 123 040",
+    "company": "MediaTech",
+    "jobtitle": "Periodista Digital"
+  },
+  {
+    "firstname": "Consuelo",
+    "lastname": "Morales",
+    "email": "consuelo.morales@email.com",
+    "phone": "+34 600 123 041",
+    "company": "EventTech",
+    "jobtitle": "Organizadora de Eventos"
+  },
+  {
+    "firstname": "Nicolás",
+    "lastname": "Ortiz",
+    "email": "nicolas.ortiz@email.com",
+    "phone": "+34 600 123 042",
+    "company": "TransportTech",
+    "jobtitle": "Ingeniero de Transporte"
+  },
+  {
+    "firstname": "Esperanza",
+    "lastname": "Rubio",
+    "email": "esperanza.rubio@email.com",
+    "phone": "+34 600 123 043",
+    "company": "InsuranceTech",
+    "jobtitle": "Actuaria"
+  },
+  {
+    "firstname": "Esteban",
+    "lastname": "Moya",
+    "email": "esteban.moya@email.com",
+    "phone": "+34 600 123 044",
+    "company": "SecurityTech",
+    "jobtitle": "Consultor de Seguridad"
+  },
+  {
+    "firstname": "Milagros",
+    "lastname": "Parra",
+    "email": "milagros.parra@email.com",
+    "phone": "+34 600 123 045",
+    "company": "HRTech",
+    "jobtitle": "Directora de RRHH"
+  },
+  {
+    "firstname": "Tomás",
+    "lastname": "Bravo",
+    "email": "tomas.bravo@email.com",
+    "phone": "+34 600 123 046",
+    "company": "QualityTech",
+    "jobtitle": "Especialista en Calidad"
+  },
+  {
+    "firstname": "Rocío",
+    "lastname": "Herrero",
+    "email": "rocio.herrero@email.com",
+    "phone": "+34 600 123 047",
+    "company": "DesignTech",
+    "jobtitle": "Directora Creativa"
+  },
+  {
+    "firstname": "Ignacio",
+    "lastname": "Flores",
+    "email": "ignacio.flores@email.com",
+    "phone": "+34 600 123 048",
+    "company": "ConsultingTech",
+    "jobtitle": "Consultor Senior"
+  },
+  {
+    "firstname": "Marisol",
+    "lastname": "Jiménez",
+    "email": "marisol.jimenez@email.com",
+    "phone": "+34 600 123 049",
+    "company": "TrainingTech",
+    "jobtitle": "Formadora Corporativa"
+  },
+  {
+    "firstname": "Álvaro",
+    "lastname": "León",
+    "email": "alvaro.leon@email.com",
+    "phone": "+34 600 123 050",
+    "company": "InnovationLab",
+    "jobtitle": "Director de Innovación"
+  }
+]

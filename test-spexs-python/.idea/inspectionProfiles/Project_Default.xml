@@ -1,0 +1,90 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="scikit-image" />
+          <option value="absl-py" />
+          <option value="astunparse" />
+          <option value="beautifulsoup4" />
+          <option value="blinker" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="deepface" />
+          <option value="dnspython" />
+          <option value="filelock" />
+          <option value="fire" />
+          <option value="Flask" />
+          <option value="flask-cors" />
+          <option value="flatbuffers" />
+          <option value="gast" />
+          <option value="gdown" />
+          <option value="google-pasta" />
+          <option value="grpcio" />
+          <option value="gunicorn" />
+          <option value="h5py" />
+          <option value="idna" />
+          <option value="imageio" />
+          <option value="itsdangerous" />
+          <option value="Jinja2" />
+          <option value="joblib" />
+          <option value="keras" />
+          <option value="lazy_loader" />
+          <option value="libclang" />
+          <option value="lz4" />
+          <option value="Markdown" />
+          <option value="markdown-it-py" />
+          <option value="MarkupSafe" />
+          <option value="mdurl" />
+          <option value="ml_dtypes" />
+          <option value="mtcnn" />
+          <option value="namex" />
+          <option value="networkx" />
+          <option value="numpy" />
+          <option value="opencv-python" />
+          <option value="opt_einsum" />
+          <option value="optree" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="pillow" />
+          <option value="protobuf" />
+          <option value="Pygments" />
+          <option value="pymongo" />
+          <option value="PySocks" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="pytz" />
+          <option value="requests" />
+          <option value="retina-face" />
+          <option value="rich" />
+          <option value="scipy" />
+          <option value="six" />
+          <option value="soupsieve" />
+          <option value="tensorboard" />
+          <option value="tensorboard-data-server" />
+          <option value="tensorflow" />
+          <option value="tensorflow-io-gcs-filesystem" />
+          <option value="termcolor" />
+          <option value="tf_keras" />
+          <option value="tifffile" />
+          <option value="tqdm" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="Werkzeug" />
+          <option value="wrapt" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="utils.eranings.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

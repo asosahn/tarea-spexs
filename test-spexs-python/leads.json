@@ -1,0 +1,642 @@
+[
+  {
+    "contact": {
+      "firstname": "Alberto",
+      "lastname": "Vázquez",
+      "email": "alberto.vazquez@prospecto.com",
+      "phone": "+34 700 001 001",
+      "jobtitle": "CTO"
+    },
+    "company": {
+      "name": "TechStartup Alpha",
+      "domain": "techstartupalpha.com",
+      "industry": "Technology",
+      "city": "Madrid",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Beatriz",
+      "lastname": "Morales",
+      "email": "beatriz.morales@prospecto.com",
+      "phone": "+34 700 001 002",
+      "jobtitle": "Marketing Director"
+    },
+    "company": {
+      "name": "Digital Marketing Pro",
+      "domain": "digitalmarketingpro.com",
+      "industry": "Marketing",
+      "city": "Barcelona",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Carlos",
+      "lastname": "Mendez",
+      "email": "carlos.mendez@prospecto.com",
+      "phone": "+34 700 001 003",
+      "jobtitle": "CEO"
+    },
+    "company": {
+      "name": "FinTech Innovations",
+      "domain": "fintechinnovations.com",
+      "industry": "Financial Services",
+      "city": "Valencia",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Diana",
+      "lastname": "Ruiz",
+      "email": "diana.ruiz@prospecto.com",
+      "phone": "+34 700 001 004",
+      "jobtitle": "Product Manager"
+    },
+    "company": {
+      "name": "E-commerce Solutions",
+      "domain": "ecommercesolutions.com",
+      "industry": "E-commerce",
+      "city": "Sevilla",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Eduardo",
+      "lastname": "Silva",
+      "email": "eduardo.silva@prospecto.com",
+      "phone": "+34 700 001 005",
+      "jobtitle": "Sales Director"
+    },
+    "company": {
+      "name": "SaaS Platform Beta",
+      "domain": "saasplatformbeta.com",
+      "industry": "Software",
+      "city": "Bilbao",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Fernanda",
+      "lastname": "Castro",
+      "email": "fernanda.castro@prospecto.com",
+      "phone": "+34 700 001 006",
+      "jobtitle": "Operations Manager"
+    },
+    "company": {
+      "name": "Logistics Tech",
+      "domain": "logisticstech.com",
+      "industry": "Logistics",
+      "city": "Zaragoza",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Gabriel",
+      "lastname": "Herrera",
+      "email": "gabriel.herrera@prospecto.com",
+      "phone": "+34 700 001 007",
+      "jobtitle": "Data Scientist"
+    },
+    "company": {
+      "name": "AI Research Corp",
+      "domain": "airesearchcorp.com",
+      "industry": "Artificial Intelligence",
+      "city": "Granada",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Helena",
+      "lastname": "Jiménez",
+      "email": "helena.jimenez@prospecto.com",
+      "phone": "+34 700 001 008",
+      "jobtitle": "UX Director"
+    },
+    "company": {
+      "name": "Design Studio Plus",
+      "domain": "designstudioplus.com",
+      "industry": "Design",
+      "city": "Málaga",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Ignacio",
+      "lastname": "Romero",
+      "email": "ignacio.romero@prospecto.com",
+      "phone": "+34 700 001 009",
+      "jobtitle": "DevOps Engineer"
+    },
+    "company": {
+      "name": "Cloud Infrastructure",
+      "domain": "cloudinfrastructure.com",
+      "industry": "Cloud Computing",
+      "city": "Murcia",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Julia",
+      "lastname": "Vargas",
+      "email": "julia.vargas@prospecto.com",
+      "phone": "+34 700 001 010",
+      "jobtitle": "HR Director"
+    },
+    "company": {
+      "name": "TalentTech Solutions",
+      "domain": "talenttech.com",
+      "industry": "Human Resources",
+      "city": "Palma",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Kevin",
+      "lastname": "Torres",
+      "email": "kevin.torres@prospecto.com",
+      "phone": "+34 700 001 011",
+      "jobtitle": "Security Specialist"
+    },
+    "company": {
+      "name": "CyberSec Pro",
+      "domain": "cybersecpro.com",
+      "industry": "Cybersecurity",
+      "city": "Santander",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Lorena",
+      "lastname": "Delgado",
+      "email": "lorena.delgado@prospecto.com",
+      "phone": "+34 700 001 012",
+      "jobtitle": "Business Analyst"
+    },
+    "company": {
+      "name": "Analytics Hub",
+      "domain": "analyticshub.com",
+      "industry": "Data Analytics",
+      "city": "Córdoba",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Manuel",
+      "lastname": "Peña",
+      "email": "manuel.pena@prospecto.com",
+      "phone": "+34 700 001 013",
+      "jobtitle": "Mobile Developer"
+    },
+    "company": {
+      "name": "AppDev Studio",
+      "domain": "appdevstudio.com",
+      "industry": "Mobile Development",
+      "city": "Alicante",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Nuria",
+      "lastname": "Campos",
+      "email": "nuria.campos@prospecto.com",
+      "phone": "+34 700 001 014",
+      "jobtitle": "Content Manager"
+    },
+    "company": {
+      "name": "Content Creation Co",
+      "domain": "contentcreation.com",
+      "industry": "Content Marketing",
+      "city": "Valladolid",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Óscar",
+      "lastname": "Medina",
+      "email": "oscar.medina@prospecto.com",
+      "phone": "+34 700 001 015",
+      "jobtitle": "QA Manager"
+    },
+    "company": {
+      "name": "Quality Assurance Tech",
+      "domain": "qatech.com",
+      "industry": "Software Testing",
+      "city": "Salamanca",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Paula",
+      "lastname": "Guerrero",
+      "email": "paula.guerrero@prospecto.com",
+      "phone": "+34 700 001 016",
+      "jobtitle": "Project Manager"
+    },
+    "company": {
+      "name": "Project Solutions Inc",
+      "domain": "projectsolutions.com",
+      "industry": "Project Management",
+      "city": "León",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Quique",
+      "lastname": "Navarro",
+      "email": "quique.navarro@prospecto.com",
+      "phone": "+34 700 001 017",
+      "jobtitle": "Backend Developer"
+    },
+    "company": {
+      "name": "Backend Systems",
+      "domain": "backendsystems.com",
+      "industry": "Software Development",
+      "city": "Burgos",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Raquel",
+      "lastname": "Serrano",
+      "email": "raquel.serrano@prospecto.com",
+      "phone": "+34 700 001 018",
+      "jobtitle": "Frontend Developer"
+    },
+    "company": {
+      "name": "Frontend Innovations",
+      "domain": "frontendinnovations.com",
+      "industry": "Web Development",
+      "city": "Cádiz",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Santiago",
+      "lastname": "Blanco",
+      "email": "santiago.blanco@prospecto.com",
+      "phone": "+34 700 001 019",
+      "jobtitle": "Database Administrator"
+    },
+    "company": {
+      "name": "Database Solutions",
+      "domain": "databasesolutions.com",
+      "industry": "Database Management",
+      "city": "Badajoz",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Teresa",
+      "lastname": "Ramos",
+      "email": "teresa.ramos@prospecto.com",
+      "phone": "+34 700 001 020",
+      "jobtitle": "System Administrator"
+    },
+    "company": {
+      "name": "System Management Pro",
+      "domain": "systemmanagement.com",
+      "industry": "IT Infrastructure",
+      "city": "Cáceres",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Ulises",
+      "lastname": "Pascual",
+      "email": "ulises.pascual@prospecto.com",
+      "phone": "+34 700 001 021",
+      "jobtitle": "Network Engineer"
+    },
+    "company": {
+      "name": "Network Solutions",
+      "domain": "networksolutions.com",
+      "industry": "Networking",
+      "city": "Huelva",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Verónica",
+      "lastname": "Santana",
+      "email": "veronica.santana@prospecto.com",
+      "phone": "+34 700 001 022",
+      "jobtitle": "Digital Strategist"
+    },
+    "company": {
+      "name": "Digital Strategy Co",
+      "domain": "digitalstrategy.com",
+      "industry": "Digital Marketing",
+      "city": "Jaén",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Walter",
+      "lastname": "Molina",
+      "email": "walter.molina@prospecto.com",
+      "phone": "+34 700 001 023",
+      "jobtitle": "Growth Hacker"
+    },
+    "company": {
+      "name": "Growth Lab",
+      "domain": "growthlab.com",
+      "industry": "Growth Marketing",
+      "city": "Almería",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Ximena",
+      "lastname": "Lozano",
+      "email": "ximena.lozano@prospecto.com",
+      "phone": "+34 700 001 024",
+      "jobtitle": "Brand Manager"
+    },
+    "company": {
+      "name": "Brand Studio",
+      "domain": "brandstudio.com",
+      "industry": "Branding",
+      "city": "Cuenca",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Yolanda",
+      "lastname": "Marín",
+      "email": "yolanda.marin@prospecto.com",
+      "phone": "+34 700 001 025",
+      "jobtitle": "Social Media Manager"
+    },
+    "company": {
+      "name": "Social Media Pro",
+      "domain": "socialmediapro.com",
+      "industry": "Social Media",
+      "city": "Toledo",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Zacarías",
+      "lastname": "Suárez",
+      "email": "zacarias.suarez@prospecto.com",
+      "phone": "+34 700 001 026",
+      "jobtitle": "SEO Specialist"
+    },
+    "company": {
+      "name": "SEO Masters",
+      "domain": "seomasters.com",
+      "industry": "SEO",
+      "city": "Guadalajara",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Adriana",
+      "lastname": "Peñas",
+      "email": "adriana.penas@prospecto.com",
+      "phone": "+34 700 001 027",
+      "jobtitle": "Email Marketing Specialist"
+    },
+    "company": {
+      "name": "Email Marketing Hub",
+      "domain": "emailmarketinghub.com",
+      "industry": "Email Marketing",
+      "city": "Ciudad Real",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Bernardo",
+      "lastname": "Morales",
+      "email": "bernardo.morales@prospecto.com",
+      "phone": "+34 700 001 028",
+      "jobtitle": "PPC Specialist"
+    },
+    "company": {
+      "name": "PPC Experts",
+      "domain": "ppcexperts.com",
+      "industry": "Paid Advertising",
+      "city": "Albacete",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Claudia",
+      "lastname": "Ortiz",
+      "email": "claudia.ortiz@prospecto.com",
+      "phone": "+34 700 001 029",
+      "jobtitle": "Conversion Specialist"
+    },
+    "company": {
+      "name": "Conversion Lab",
+      "domain": "conversionlab.com",
+      "industry": "Conversion Optimization",
+      "city": "Ávila",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Damián",
+      "lastname": "Rubio",
+      "email": "damian.rubio@prospecto.com",
+      "phone": "+34 700 001 030",
+      "jobtitle": "Analytics Manager"
+    },
+    "company": {
+      "name": "Analytics Pro",
+      "domain": "analyticspro.com",
+      "industry": "Web Analytics",
+      "city": "Segovia",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Esperanza",
+      "lastname": "Moya",
+      "email": "esperanza.moya@prospecto.com",
+      "phone": "+34 700 001 031",
+      "jobtitle": "CRM Manager"
+    },
+    "company": {
+      "name": "CRM Solutions",
+      "domain": "crmsolutions.com",
+      "industry": "Customer Relationship Management",
+      "city": "Soria",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Fabián",
+      "lastname": "Parra",
+      "email": "fabian.parra@prospecto.com",
+      "phone": "+34 700 001 032",
+      "jobtitle": "Automation Specialist"
+    },
+    "company": {
+      "name": "Automation Tech",
+      "domain": "automationtech.com",
+      "industry": "Marketing Automation",
+      "city": "Zamora",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Gema",
+      "lastname": "Bravo",
+      "email": "gema.bravo@prospecto.com",
+      "phone": "+34 700 001 033",
+      "jobtitle": "Lead Generation Specialist"
+    },
+    "company": {
+      "name": "Lead Gen Pro",
+      "domain": "leadgenpro.com",
+      "industry": "Lead Generation",
+      "city": "Palencia",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Héctor",
+      "lastname": "Herrero",
+      "email": "hector.herrero@prospecto.com",
+      "phone": "+34 700 001 034",
+      "jobtitle": "Sales Automation Manager"
+    },
+    "company": {
+      "name": "Sales Automation Co",
+      "domain": "salesautomation.com",
+      "industry": "Sales Technology",
+      "city": "Ourense",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Irene",
+      "lastname": "Flores",
+      "email": "irene.flores@prospecto.com",
+      "phone": "+34 700 001 035",
+      "jobtitle": "Customer Success Manager"
+    },
+    "company": {
+      "name": "Customer Success Hub",
+      "domain": "customersuccesshub.com",
+      "industry": "Customer Success",
+      "city": "Pontevedra",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Joaquín",
+      "lastname": "Jiménez",
+      "email": "joaquin.jimenez@prospecto.com",
+      "phone": "+34 700 001 036",
+      "jobtitle": "Revenue Operations Manager"
+    },
+    "company": {
+      "name": "RevOps Solutions",
+      "domain": "revopssolutions.com",
+      "industry": "Revenue Operations",
+      "city": "Lugo",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Karina",
+      "lastname": "León",
+      "email": "karina.leon@prospecto.com",
+      "phone": "+34 700 001 037",
+      "jobtitle": "Partnership Manager"
+    },
+    "company": {
+      "name": "Partnership Pro",
+      "domain": "partnershippro.com",
+      "industry": "Business Development",
+      "city": "A Coruña",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Lorenzo",
+      "lastname": "Vega",
+      "email": "lorenzo.vega@prospecto.com",
+      "phone": "+34 700 001 038",
+      "jobtitle": "Business Development Manager"
+    },
+    "company": {
+      "name": "BizDev Solutions",
+      "domain": "bizdevsolutions.com",
+      "industry": "Business Development",
+      "city": "Huesca",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Macarena",
+      "lastname": "Castro",
+      "email": "macarena.castro@prospecto.com",
+      "phone": "+34 700 001 039",
+      "jobtitle": "Strategic Partnerships Director"
+    },
+    "company": {
+      "name": "Strategic Alliances",
+      "domain": "strategicalliances.com",
+      "industry": "Strategic Partnerships",
+      "city": "Teruel",
+      "country": "Spain"
+    }
+  },
+  {
+    "contact": {
+      "firstname": "Nicolás",
+      "lastname": "Iglesias",
+      "email": "nicolas.iglesias@prospecto.com",
+      "phone": "+34 700 001 040",
+      "jobtitle": "Innovation Manager"
+    },
+    "company": {
+      "name": "Innovation Labs",
+      "domain": "innovationlabs.com",
+      "industry": "Innovation",
+      "city": "Lleida",
+      "country": "Spain"
+    }
+  }
+]
